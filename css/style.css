@@ -603,3 +603,20 @@ footer input[type="submit"] {
 	color: #fff;
 	margin-bottom: 20px;
 }
+.iportfolio-img-iteam{
+	display: flex;
+	justify-content: space-between;
+}
+.portfolio-img{
+	width: 32%;
+}
+.portfolio-img img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.navbar-toggler-icon i{
+	color: #000;
+}
+#navbar{
+	padding-bottom: 30px;
+}
